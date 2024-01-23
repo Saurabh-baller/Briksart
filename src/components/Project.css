@@ -1,0 +1,37 @@
+.full-screen-image {
+  width: 100%;
+  padding-top: 4rem;
+  padding-left: 8rem;
+  padding-bottom: 8rem;
+  padding-right: 8rem;
+  height: 70%;
+}
+.img2 {
+  display: flex;
+  height: 35rem;
+}
+
+.img3 {
+  width: 50%;
+  padding-right: 3rem;
+  padding-left: 8rem;
+  padding-bottom: 4rem;
+  height: 100%; 
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.19), 0px 6px 6px rgba(0, 0, 0, 0.23);
+}
+.img4 {
+  padding-left: 3rem;
+  padding-right: 8rem;
+  padding-bottom: 4rem;
+  width: 50%;
+  height: 100%;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.19), 0px 6px 6px rgba(0, 0, 0, 0.23);
+}
+.shadow-text{
+  font-size: xx-large;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-top: 10rem;
+  font-weight: bolder;
+}
